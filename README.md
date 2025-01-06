@@ -4,6 +4,7 @@
 ---
 
 ### Updates
-- The link to the paper will be available soon!
-- Source codes and data will be available soon!
+- Paper: https://aclanthology.org/2024.customnlp4u-1.2/
+- Data available (Anonymized)
+- Src (Models): Will be released with permission
 
